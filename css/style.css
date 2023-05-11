@@ -132,6 +132,7 @@
   border-radius: 10px 10px 10px 10px;
   align-items: center;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 70px;
 }
 
 .buscar span {
@@ -208,3 +209,18 @@
   left: 45px;
   bottom: 18px;
 }
+
+.section1 h2 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  line-height: 57.6px;
+  color:  #222831;
+  margin-bottom: 15px;
+}
+
+.line-img {
+  margin: auto;
+  margin-bottom: 100px;
+}
+
