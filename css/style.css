@@ -219,7 +219,7 @@
   margin-bottom: 15px;
 }
 
-.line-img {
+.line-img1 {
   margin: auto;
   margin-bottom: 50px;
 }
@@ -227,6 +227,7 @@
 .conteiner {
   display: flex;
   justify-content: center;
+  margin-bottom: 70px;
 }
 
 .card {
@@ -342,5 +343,37 @@
   position: relative;
   top: 55px;
   grid-column: 5;
+}
+
+.section2 h2 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  line-height: 57.6px;
+  color:  #222831;
+  margin-bottom: 15px;
+}
+
+.line-img2 {
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.section2 table {
+  width: 400px;
+  border-collapse: collapse;
+}
+
+.section2 td {
+  border: solid 1px #29A19C;
+  padding: 10px;
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+.vac1 {
+  background-color: #29A19C;
+  color: white;
 }
 
