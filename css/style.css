@@ -525,7 +525,7 @@
 
 .icon-banner {
   position: relative;
-  top: 40px;
+  top: 25px;
 }
 
 .h3-banner {
@@ -538,6 +538,7 @@
 .p-banner {
   position: relative;
   left: 30px;
+  margin: 10px 0px;
   font-size: 14px;
 }
 
@@ -556,7 +557,6 @@
 
 .linha1 {
   position: relative;
-  bottom: 30px;
   float: left;
   margin-bottom: 20px;
 }
@@ -566,4 +566,29 @@
   font-weight: 400;
   font-size: 18px;
   color: rgba(34, 40, 49, 0.5);
+}
+
+.inputbox {
+  position: relative;
+  margin-bottom: 15px;
+}
+
+.inputuser {
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  outline: none;
+  font-family: 'Lato', sans-serif;
+  width: 100%;
+}
+
+.botao-form {
+  width: 450px;
+  height: 50px;
+  background-color: #29A19C;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  border: none;
+  color: white;
+  font-size: 24px;
 }
